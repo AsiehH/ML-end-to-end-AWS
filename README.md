@@ -4,7 +4,7 @@ This repo includes an end-to-end ML project. The focus is mainly on deployment r
 
 The dataset is *Student exam performance* from [Kaggles](https://www.kaggle.com/datasets/spscientist/students-performance-in-exams?datasetId=74977) and the prediction type is regression. 
 
-
+This repo was cloned from my repo [ML-end-to-end-azure](https://github.com/AsiehH/ML-end-to-end-azure) and only the deployment part was changed from Microsoft Azure to AWS.
 
 ## Run locally
 - From the project directory run:

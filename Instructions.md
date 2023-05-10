@@ -77,14 +77,6 @@ This insturction assumes that you have already
     - Name: `ECR_REPOSITORY_NAME`
     - Copy/past the value after .com in the URI you saved from step ECR        
         
-        
-        
-        
-        
-
-- Once you see *Your deployment is complete*, you can check on  that `.github/workflows` has been created in your repo. If you click on it and open the `yml` file, you will see the steps that has been taken to deploy your app. You will see `publish-profile` in the end that has a secret key. To see the value of this secret:
-	- click on Settings > Secrets and Variables > Actions
-	- You will see the key that was created. 
 
 ### See the deployed model
 - Go to Github Actions
